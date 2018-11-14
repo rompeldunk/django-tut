@@ -5,6 +5,7 @@
 *.pyc
 __pycache__/
 local_settings.py
+.vscode
 venv
 
 .Python
@@ -17,10 +18,3 @@ venv
 
 .venv
 db.sqlite3
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-db.sqlite3
-migrations/
-media/
