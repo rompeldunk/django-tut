@@ -1,0 +1,21 @@
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+h1 {
+    color:white;
+}
+
+li a {
+    color: green;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: white url("images/background.jpg") no-repeat;
+}
